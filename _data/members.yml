@@ -37,3 +37,11 @@
   bio: wait...
   url: 
   visible: true
+
+  - name: Perry Wu
+  role: Undergraduate student at ECE department
+  img: -
+  github: pzw2
+  bio: wait...
+  url: https://www.linkedin.com/in/perry-wu-384936137
+  visible: true
