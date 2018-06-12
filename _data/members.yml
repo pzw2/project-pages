@@ -10,7 +10,7 @@
   visible: true
    
 - name: Da Huo
-  role: Data Scientist / Materials Informatics
+  role: Bachelor student of Computer Science Department
   img: https://media.licdn.com/dms/image/C4D03AQHh6szppO-YOA/profile-displayphoto-shrink_800_800/0?e=1534377600&v=beta&t=9_Qg8VmK7JE2njqAcw3QWelWOUzlaNuMZ2dtPEF08zQ
   github: davidbrough1
   bio: Da is a bachelor student in the School of Computational Science.
@@ -18,8 +18,8 @@
   visible: true
   
 - name: Sharuti Das
-  role: Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
-  url: http://mined.gatech.edu/
+  role: Undergraduate Researcher at University of Maryland
+  img: https://media.licdn.com/dms/image/C4D03AQHnw1ZRvkj9UQ/profile-displayphoto-shrink_800_800/0?e=1534377600&v=beta&t=opY5mZBOF5XmRWiO_yqn6n4T6Z8_VyhCkoFTFIqP8L8
+  bio: wait...
+  url: https://www.linkedin.com/in/shruti--das/
   visible: true
